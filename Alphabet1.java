@@ -1,7 +1,6 @@
-
+import java.util.Scanner;
+import java.util.Scanner;
 public class Alphabet1 {
-
-	 java.util.Scanner;
 
 	public static void main(String[] args) {
 //write a program to input any character and
